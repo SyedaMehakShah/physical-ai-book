@@ -1,0 +1,193 @@
+{
+  "/physical_ai_humanoid_book/__docusaurus/debug-357": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    }
+  },
+  "/physical_ai_humanoid_book/__docusaurus/debug/config-7ad": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    }
+  },
+  "/physical_ai_humanoid_book/__docusaurus/debug/content-f27": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    },
+    "__props": "__props---physical-ai-humanoid-book-docusaurus-debug-contente-3-e-3a4"
+  },
+  "/physical_ai_humanoid_book/__docusaurus/debug/globalData-1ad": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    }
+  },
+  "/physical_ai_humanoid_book/__docusaurus/debug/metadata-e35": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    }
+  },
+  "/physical_ai_humanoid_book/__docusaurus/debug/registry-34a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    }
+  },
+  "/physical_ai_humanoid_book/__docusaurus/debug/routes-f38": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docusaurus-debugb-38-000"
+    }
+  },
+  "/physical_ai_humanoid_book/docs-57f": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-docsaba-014"
+    }
+  },
+  "/physical_ai_humanoid_book/docs-758": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---physical-ai-humanoid-book-docsd-1-e-af9"
+  },
+  "/physical_ai_humanoid_book/docs-720": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/physical_ai_humanoid_book/docs/intro-70e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-intro-0-e-3-31f"
+  },
+  "/physical_ai_humanoid_book/docs/labs/lab-template-9a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-labs-lab-templatec-14-959"
+  },
+  "/physical_ai_humanoid_book/docs/module-1-ros2/-a69": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-1-ros-2-4-dd-f2b"
+  },
+  "/physical_ai_humanoid_book/docs/module-1-ros2/nodes-781": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-1-ros-2-nodes-4-f-2-5df"
+  },
+  "/physical_ai_humanoid_book/docs/module-1-ros2/rclpy-ef7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-1-ros-2-rclpyafd-c17"
+  },
+  "/physical_ai_humanoid_book/docs/module-1-ros2/services-74c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-1-ros-2-services-462-456"
+  },
+  "/physical_ai_humanoid_book/docs/module-1-ros2/topics-201": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-1-ros-2-topicsaf-1-f6a"
+  },
+  "/physical_ai_humanoid_book/docs/module-1-ros2/urdf-605": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-1-ros-2-urdf-21-c-7be"
+  },
+  "/physical_ai_humanoid_book/docs/module-2-digital-twin/-47b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-2-digital-twin-811-155"
+  },
+  "/physical_ai_humanoid_book/docs/module-2-digital-twin/gazebo-26b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-2-digital-twin-gazebo-31-a-9a7"
+  },
+  "/physical_ai_humanoid_book/docs/module-2-digital-twin/physics-ed5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-2-digital-twin-physics-4-cc-cbf"
+  },
+  "/physical_ai_humanoid_book/docs/module-2-digital-twin/sensors-3f2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-2-digital-twin-sensors-544-131"
+  },
+  "/physical_ai_humanoid_book/docs/module-2-digital-twin/unity-ae3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-2-digital-twin-unitya-25-5bd"
+  },
+  "/physical_ai_humanoid_book/docs/module-3-isaac/-103": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-3-isaac-0-c-0-c12"
+  },
+  "/physical_ai_humanoid_book/docs/module-3-isaac/ai-integration-d06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-3-isaac-ai-integration-153-2a7"
+  },
+  "/physical_ai_humanoid_book/docs/module-3-isaac/isaac-sim-4e9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-3-isaac-isaac-sim-72-b-4f1"
+  },
+  "/physical_ai_humanoid_book/docs/module-4-real-robots/-75f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-4-real-robots-cd-3-a1a"
+  },
+  "/physical_ai_humanoid_book/docs/module-4-real-robots/deployment-867": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-4-real-robots-deploymentbae-d2d"
+  },
+  "/physical_ai_humanoid_book/docs/module-4-real-robots/robot-hardware-058": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-4-real-robots-robot-hardware-9-d-1-21a"
+  },
+  "/physical_ai_humanoid_book/docs/module-4-real-robots/safety-0ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-4-real-robots-safety-871-fb1"
+  },
+  "/physical_ai_humanoid_book/docs/module-5-hri-safety/-e69": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-5-hri-safety-d-0-a-dbe"
+  },
+  "/physical_ai_humanoid_book/docs/module-5-hri-safety/ethics-d5f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-5-hri-safety-ethics-0-a-4-645"
+  },
+  "/physical_ai_humanoid_book/docs/module-5-hri-safety/interaction-design-5b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-5-hri-safety-interaction-design-553-bab"
+  },
+  "/physical_ai_humanoid_book/docs/module-5-hri-safety/safety-protocols-75b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-module-5-hri-safety-safety-protocols-895-d7f"
+  },
+  "/physical_ai_humanoid_book/docs/resources/faq-3ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-faqb-66-2c8"
+  },
+  "/physical_ai_humanoid_book/docs/resources/glossary-55b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-glossary-6-e-9-835"
+  },
+  "/physical_ai_humanoid_book/docs/resources/lab-template-73c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-lab-template-138-c09"
+  },
+  "/physical_ai_humanoid_book/docs/resources/references-442": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-referencesb-6-e-358"
+  },
+  "/physical_ai_humanoid_book/docs/resources/spec-driven-workflow-914": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-spec-driven-workflow-1-cc-ff6"
+  },
+  "/physical_ai_humanoid_book/docs/resources/tools-05a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-toolsb-59-cae"
+  },
+  "/physical_ai_humanoid_book/docs/resources/tools-overview-d18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-tools-overview-2-c-8-d26"
+  },
+  "/physical_ai_humanoid_book/docs/resources/troubleshooting-e29": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---physical-ai-humanoid-book-docs-resources-troubleshootinga-30-a7b"
+  },
+  "/physical_ai_humanoid_book/-ab8": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---physical-ai-humanoid-book-a-74-6cf"
+    },
+    "config": "config---physical-ai-humanoid-book-5-e-9-f57"
+  }
+}

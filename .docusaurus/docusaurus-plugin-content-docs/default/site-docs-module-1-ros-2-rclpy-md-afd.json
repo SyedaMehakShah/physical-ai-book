@@ -1,0 +1,27 @@
+{
+  "id": "module-1-ros2/rclpy",
+  "title": "Python ROS Client Library (rclpy)",
+  "description": "Learning Objectives",
+  "source": "@site/docs/module-1-ros2/rclpy.md",
+  "sourceDirName": "module-1-ros2",
+  "slug": "/module-1-ros2/rclpy",
+  "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/rclpy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SyedaMehakShah/physical_ai_humanoid_book/edit/main/docs/module-1-ros2/rclpy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ROS 2 Services",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/services"
+  },
+  "next": {
+    "title": "Unified Robot Description Format (URDF)",
+    "permalink": "/physical_ai_humanoid_book/docs/module-1-ros2/urdf"
+  }
+}
